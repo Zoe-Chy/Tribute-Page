@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Tribute page" />
+    <title>Tribute page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <main id="main">
+    <h1 id="title">Winston Churchill</h1>
+<div id="img-div"><img id="image" src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRoEs_8v-zgyEpUBG33VFi7qCATejULid-8cd0SNOEhduJcgVcRCUDo4Ze35Cp-Lb7KTCxpvsnp3p-o-_c">
+<br><div id="img-caption"><caption >Winston Churchill gives a "Victory salute" Aug 27, 1941</caption></div>
+<p id="tribute-info">Sir Winston Leonard Spencer Churchill[a] (30 November 1874 – 24 January 1965) was a British statesman, soldier, and writer who served as Prime Minister of the United Kingdom twice, from 1940 to 1945 during the Second World War, and again from 1951 to 1955. Apart from two years between 1922 and 1924, he was a Member of Parliament (MP) from 1900 to 1964 and represented a total of five constituencies. Ideologically an economic liberal and imperialist, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.</p>
+<p>For more information <a id="tribute-link" target="_blank" href="https://en.m.wikipedia.org/wiki/Winston_Churchill">click here</a></p>
+    </main>
